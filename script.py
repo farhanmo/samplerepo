@@ -1,5 +1,6 @@
 import os
 import sys
+import bokeh
 
 import requests
 
